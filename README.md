@@ -38,7 +38,7 @@ Sistema de envíos a domicilio (Delivery).
 ## Perfiles de Usuario
 
 Cajero: 
-Responsable de la atención al público, escaneo de productos y recepción de pagos.
+Responsable de la atencion al publico, escaneo de productos y recepción de pagos.
 
 Almacenero: 
 Encargado de la recepción de pedidos, auditoría física de góndolas y registro de fechas de vencimiento.
